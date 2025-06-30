@@ -15,7 +15,7 @@ Hi! I'm a Mechanical Engineering student at NSUT diving into the world of progra
 
 ## 🛠️ Projects I've Built So Far
 
-Day 1 - Calculating the area of a rectangle, calculating the area of a circle
+Day 1 - Calculating the area of a rectangle, calculating the area of a circlew <br>
 Day 2 - Basic calculator, Temperature converter, Weight converter
 
 ---
