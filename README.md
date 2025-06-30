@@ -8,7 +8,7 @@ Hi! I'm a Mechanical Engineering student at NSUT diving into the world of progra
 | Day | Topics Covered |
 |------|----------------|
 | 1 | variable types, type castingm, input funciton, basic arithmetic, import math |
-| 2 | 
+| 2 | if statements, logical operators, conditional oeprators |
 
 
 ---
@@ -16,6 +16,7 @@ Hi! I'm a Mechanical Engineering student at NSUT diving into the world of progra
 ## 🛠️ Projects I've Built So Far
 
 Day 1 - Calculating the area of a rectangle, calculating the area of a circle
+Day 2 - Basic calculator, Temperature converter, Weight converter
 
 ---
 
